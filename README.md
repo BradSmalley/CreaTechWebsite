@@ -2,7 +2,7 @@
 
 [CreaTech Website](http://www.CreaTechProducts.com/) is the primary 
 website for [CreaTech Products and Consulting](http://www.CreaTechProducts.com/) and is based on the
-[Creative](http://startbootstrap.com/template-overviews/creative/) creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Creative](http://startbootstrap.com/template-overviews/creative/) theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Creator
 
