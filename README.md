@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# [CreaTech Website](http://www.CreaTechProducts.com/) - [CreaTech Products and Consulting](http://www.CreaTechProducts.com/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
